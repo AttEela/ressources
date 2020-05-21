@@ -1,5 +1,6 @@
 # sources
-All the documentations/sources that I found usefull or interesting. Can be documents, blogs or courses that are either in french or in english.
+All the sources that I found usefull or interesting. Can be documents, blogs, librairies
+ or courses that are either in french or in english.
 
 
 ## Machine Learning:
@@ -7,6 +8,8 @@ All the documentations/sources that I found usefull or interesting. Can be docum
 http://christopher5106.github.io/deep/learning/2016/09/16/about-loss-functions-multinomial-logistic-logarithm-cross-entropy-square-errors-euclidian-absolute-frobenius-hinge.html (loss functions)  
 http://ruder.io/optimizing-gradient-descent/ (gradient descent)  
 https://stats.stackexchange.com/questions/222081/which-algorithm-can-learn-exactly-a-tree-structure-without-noise/222125#222125  
+https://www.casact.org/newsletter/pdfupload/ar/brainstorms_corrected_from_ar_may2009.pdf (skewed distribution)
+
 
 #### Interpretability
 
@@ -45,8 +48,15 @@ https://www.r-bloggers.com/better-prediction-intervals-for-time-series-forecasts
 https://otexts.org/fpp2/intro.html (complet)  
 
 
+#### Metrics
+
+##### Binary classification
+http://ftp.cs.wisc.edu/machine-learning/shavlik-group/davis.icml06.pdf
+https://sanchom.wordpress.com/tag/average-precision/
+
 ## Neural nets
 
+https://playground.tensorflow.org/
 https://arxiv.org/abs/1502.03167  
 https://mapr.com/blog/deep-learning-tensorflow/  
 http://cs231n.github.io/neural-networks-1/ (remplacer par 2 et par 3 aussi)  
@@ -54,7 +64,8 @@ https://rolisz.ro/2013/04/18/neural-networks-in-python/ (réseau de neurones imp
 http://mmlab.ie.cuhk.edu.hk/	(reconnaissance faciale)  
 https://stanford.edu/~shervine/l/fr/teaching/cs-230/ (TOUT EN FRANCAIS)  
 https://github.com/facebookresearch/maskrcnn-benchmark (maskRCNN)  
-https://arxiv.org/pdf/1606.07792.pdf (Wild And Deep)  
+https://arxiv.org/pdf/1606.07792.pdf (Wild And Deep) 
+https://arxiv.org/ftp/arxiv/papers/1803/1803.00202.pdf (recommandation) 
 https://arxiv.org/abs/1605.07110 (deepearning without local minima)  
 https://arxiv.org/pdf/1706.02515.pdf (batch-norm)  
 https://arxiv.org/pdf/1902.06838.pdf (gans)  
@@ -71,8 +82,20 @@ https://arxiv.org/pdf/1901.09321.pdf (pour une bonne initialisation)
 https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf (Comprendre les spécialisations des neurones)  
 https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf (transfers de style)  
 https://arxiv.org/pdf/1712.05884.pdf
+https://ml4a.github.io/ml4a/convnets/
 
-#### Cours RNN :
+Image similarity  
+
+https://github.com/karpathy/paper-notes/blob/master/matching_networks.md
+https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d
+http://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf
+http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf
+https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICPR-2016/media/files/1142.pdf
+http://places.csail.mit.edu/places_NIPS14.pdf
+https://www.quora.com/What-are-the-advantages-of-using-a-triplet-loss-function-over-a-contrastive-loss-How-would-you-decide-which-to-use
+https://arxiv.org/ftp/arxiv/papers/1709/1709.08761.pdf
+
+#### RNN :
 http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/readings/L14%20Recurrent%20Neural%20Nets.pdf  
 http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/readings/L15%20Exploding%20and%20Vanishing%20Gradients.pdf  
 
@@ -97,4 +120,21 @@ https://github.com/keras-team/keras/issues/6168 (exemple de prog fonctionnelle)
 https://www.quora.com/When-should-I-use-an-RNN-LSTM-and-when-to-use-ARIMA-for-a-time-series-forecasting-problem-What-is-the-relation-between-them (comparaison ARIMA)  
 
 
+## NLP:
+https://towardsdatascience.com/overview-of-text-similarity-metrics-3397c4601f50
+
+
+## MLOps:
+https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf
+http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+
+
+#### Cool Libraries:
+https://github.com/mdbloice/Augmentor
+https://github.com/awslabs/deequ
+https://github.com/pallets/click
+https://github.com/awslabs/aws-data-wrangler
+
+
 ## Miscellaneous
+Steam inputs keras : https://github.com/keras-team/keras/issues/8130 & https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
