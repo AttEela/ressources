@@ -139,3 +139,6 @@ https://github.com/tslearn-team/tslearn
 
 ## Miscellaneous
 Steam inputs keras : https://github.com/keras-team/keras/issues/8130 & https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
+
+## Dev
+https://nvie.com/posts/a-successful-git-branching-model/
