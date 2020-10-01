@@ -55,7 +55,7 @@ http://ftp.cs.wisc.edu/machine-learning/shavlik-group/davis.icml06.pdf
 https://sanchom.wordpress.com/tag/average-precision/
 
 ## Neural nets
-
+https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
 https://playground.tensorflow.org/
 https://arxiv.org/abs/1502.03167  
 https://mapr.com/blog/deep-learning-tensorflow/  
