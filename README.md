@@ -4,7 +4,7 @@ All the sources that I found usefull or interesting. Can be documents, blogs, li
 
 ## Bayesianism
 
-https://twiecki.io/blog/2015/11/10/mcmc-sampling/?utm_source=substack&utm_medium=email
+https://twiecki.io/blog/2015/11/10/mcmc-sampling/?utm_source=substack&utm_medium=email (MCMC)
 
 ## Machine Learning:
 
