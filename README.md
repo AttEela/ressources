@@ -2,6 +2,9 @@
 All the sources that I found usefull or interesting. Can be documents, blogs, librairies
  or courses that are either in french or in english.
 
+## Bayesianism
+
+https://twiecki.io/blog/2015/11/10/mcmc-sampling/?utm_source=substack&utm_medium=email
 
 ## Machine Learning:
 
@@ -127,6 +130,7 @@ https://towardsdatascience.com/overview-of-text-similarity-metrics-3397c4601f50
 ## MLOps:
 https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf
 http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+
 
 
 #### Cool Libraries:
